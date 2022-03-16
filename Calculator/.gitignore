@@ -4,10 +4,12 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
 #added
 mvnw.cmd
 mvnw
 .mvn/wrapper
+
 
 ### STS ###
 .apt_generated
@@ -36,3 +38,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/bin/
